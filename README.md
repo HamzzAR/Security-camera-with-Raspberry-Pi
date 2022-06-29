@@ -10,11 +10,11 @@ pictures that the Pi takes. You can check the picturs on your phone and you can 
 commands to your raspberry pi to take a picture and it will send the picture back to you.
 
 There are 5 files that you need to know about:
-1. Main      #Where all the functions will be called 
-2. Emailing  #This will actually send emails 
-3. ReadEmail #This will read email and extract the commands 
-4. Picture   #This will take the picture and save it 
-5. P3picam   #This detects motion
+1. Main      Where all the functions will be called 
+2. Emailing  This will send emails 
+3. ReadEmail This will read email and extract the commands 
+4. Picture   This will take the picture and save it 
+5. P3picam   This detects motion
 
 Any feedback, leave a comment please.
 
